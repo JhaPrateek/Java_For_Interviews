@@ -1,6 +1,6 @@
 # GENERICS
 
--> Generics in Java is a feature that allows us to reate reusable classes and methods that can work with different data types.
+-> Generics in Java is a feature that allows us to create reusable classes and methods that can work with different data types.
 -> Generics let us write true polymorphic code that works with any data type.
 
 -> public interface Map<K,V>{
