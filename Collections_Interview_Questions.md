@@ -4,9 +4,7 @@
 
 ## Q. What is Java Collections Framework? List out some benefits of Collections framework?
 
-<p align="center">
-  <img src="assets/collection.png" alt="Java Collections" width="800px" />
-</p>
+
 
 The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects. Java Collections can achieve all the operations that we perform on a data such as searching, sorting, insertion, manipulation, and deletion.
 
